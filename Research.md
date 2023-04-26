@@ -5,78 +5,27 @@ feature_text: |
   ## *Christina L. Miller* 
   Evolutionary Biologist 
 feature_image: "DSC_0104.JPG"
-excerpt: My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Within evolutionary biology, my research falls into the categories below. Currently my research focuses on quantitative genetics with a main focus on genotype-by-environment interactions.
+
 ---
 
+My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research focuses on quantitative genetics with a main focus on genotype-by-environment interactions.
 
-# Heading 1
 
-## Heading 2
+###### Current Research
 
-### Heading 3
+How plants adapt to urbanisation    |  Capsella 
+some text here avout this research  | Photo of capsella ![]("capsella drawing.png")
 
-#### Heading 4
 
-##### Heading 5
+###### PhD
 
-###### Heading 6
 
-<small>A small element</small>
 
-[A link](https://david.darn.es "A link")
+###### The Society of Environmental Exploration 
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
-Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
+###### MSc
 
-* An item
-* An item
-* An item
-* An item
-* An item
-
-1. Item one
-2. Item two
-3. Item three
-4. Item four
-5. Item five
-
-> A simple blockquote
-
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
-
-...CSS...
-
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
-
-...and JavaScript
-
-``` js
-const blockquote = document.querySelector("blockquote")
-const bolden = (keyString, string) =>
-  string.replace(new RegExp(keyString, 'g'), '<strong>'+keyString+'</strong>')
-
-blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
-```
-
-`Single line of code`
 
 ## HTML Includes
 
