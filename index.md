@@ -1,6 +1,6 @@
 ---
 title: Welcome to my site!
-feature_text: |what is this?
+feature_text: |
   ## Christina L. Miller
   "You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutley nothing whatever about the bird... So let's look at the bird and see what it's doing- that's what counts" Richard Feynman (1985)
 feature_image: "https://picsum.photos/1300/400?image=989"
