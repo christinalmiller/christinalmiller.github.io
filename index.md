@@ -8,7 +8,7 @@ excerpt: I am currently a post-doc in the [Joseph's Lab](https://josephslab.gith
 
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+I am currently a post-doc in the [Joseph's Lab](https://josephslab.github.io/) studying urban adaptation in Capsella bursa-pastoris. My main interests are genotype-by-environment interactions and evolutionary theory, but I am passionate about anything evolution related. Click [here](https://christinalmiller.github.io/Research) to read more about my research.
 
 {% include button.html text="CV" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} 
 
