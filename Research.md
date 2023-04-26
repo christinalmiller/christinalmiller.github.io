@@ -1,11 +1,13 @@
+
 ---
 title: Research
 feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
-aside: true
+  ## *Christina L. Miller* 
+  Evolutionary Biologist 
+feature_image: "DSC_0104.JPG"
+excerpt: My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Within evolutionary biology, my research falls into the categories below. Currently my research focuses on quantitative genetics with a main focus on genotype-by-environment interactions.
 ---
+
 
 # Heading 1
 
