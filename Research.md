@@ -14,7 +14,7 @@ My research interests lie in evolutionary biology and primarily aim to understan
 ###### Current Research
 
 How plants adapt to urbanisation    |  Capsella 
-some text here avout this research  | Photo of capsella {% include figure.png image="Capsella drawing.png" caption="Image with caption" width="300" height="800" %}
+some text here avout this research  | Photo of capsella
 
 ###### PhD
 
