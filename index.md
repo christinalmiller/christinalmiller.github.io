@@ -1,13 +1,11 @@
 ---
 title: Welcome to my site!
-feature_text: |
-  ## Alembic
+feature_text: |what is this?
+  ## Christina L. Miller
   "You can know the name of a bird in all the languages of the world, but when you're finished, you'll know absolutley nothing whatever about the bird... So let's look at the bird and see what it's doing- that's what counts" Richard Feynman (1985)
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I am currently a post-doc in the [Joseph's Lab](https://josephslab.github.io/) studying urban adaptation in Capsella bursa-pastoris. My main interests are genotype-by-environment interactions and evolutionary theory, but I am passionate about anything evolution related. Click [here](https://christinalmiller.github.io/Research) to read more about my research."
 
-
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
