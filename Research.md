@@ -13,7 +13,7 @@ My research interests lie in evolutionary biology and primarily aim to understan
 ###### Current Research
 
 How plants adapt to urbanisation    |  Capsella 
-some text here avout this research  | Photo of capsella ![]("capsella drawing.png")
+some text here avout this research  | Photo of capsella ![](christinalmiller.github.io/assets/capsella drawing.png)
 
 
 ###### PhD
