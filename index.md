@@ -1,6 +1,5 @@
 ---
 title: Welcome to my site! 
-Evolutionary Biologist
 feature_text: |
   ## *Christina L. Miller*
   Evolutionary Biologist
