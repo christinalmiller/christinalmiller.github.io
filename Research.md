@@ -21,12 +21,11 @@ While many animals can shift their ranges to help buffer against some of these e
 
 We are carying out common garden and transplant experiments to determine the contribution of adaptation and plasticity to the survival of plants in an urban landscape. We also aim to quantify the genetic variation of *Capsella bursa-pastoris* populations across cities, and identify the relatedness of these populations.
 
+<img src="https://user-images.githubusercontent.com/127891763/234727661-a1b192de-7e3e-4844-a725-e58579dfaa20.jpg" align="left" width="300px"/> 
 
 ### PhD
 
 #### Mutational contribution to genotype-by-environment variation
-
-<img src="https://user-images.githubusercontent.com/127891763/234727661-a1b192de-7e3e-4844-a725-e58579dfaa20.jpg" align="left" width="300px"/> 
 
 While many studies have documented genotype-by-environment variation, few studies have looked at what causes this or what processes might change it. Here we looked at the contribution mutation to GxE. 
 
@@ -34,7 +33,9 @@ Mutation is the ultimate sourse of genetic variation, and therefore the basis of
 
 In an atampt to look fill in some of these knowledge gaps, we looked at the mutational effects of locomotor performance across a temperature gradient in zebrafish.
 
+### Island Biology
 
+Thermal adaptation in anole lizards
 
 ### The Society of Environmental Exploration 
 
@@ -43,5 +44,5 @@ Madagascar is home to some incredible wildlife.
 
 ### MSc
 
-
+Behavioural ecology and competition
 
