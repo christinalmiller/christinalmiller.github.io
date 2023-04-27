@@ -11,6 +11,7 @@ feature_image: "DSC_0104.JPG"
 My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research is in the field of quantitative genetics, with a main focus on genotype-by-environment interactions.
 
 <img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="right" width="300px"/> 
+
 ### Current Research 
 
 #### The plant evolution project 
