@@ -1,5 +1,5 @@
 ---
-title: *Christina L. Miller* 
+title: Christina L. Miller 
 feature_text: |  
 Evolutionary Biologist
 feature_image: "DSC_0104.JPG"
