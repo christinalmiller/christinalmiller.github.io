@@ -14,7 +14,7 @@ My research interests lie in evolutionary biology and primarily aim to understan
 ### Current Research
 
 #### The plant evolution project 
-<img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="left" width="200px"/> 
+<img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="right" width="300px"/> 
 
 Urbanisation is happening on a rapid scale around the world, providing a new dynamic to many ecosystems. This process can often cause extremes in many abiotic factors.
 While many animals can shift their ranges to help buffer against some of these extremes, the survival of plants relies on species' ability to mitigate stress over a relatively short timescale. |
