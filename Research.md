@@ -1,8 +1,8 @@
 ---
 
-title: Research
+title:
 feature_text: |
-  ## *Christina L. Miller* 
+  ## *Research* 
   Evolutionary Biologist 
 feature_image: <img src="https://user-images.githubusercontent.com/127891763/236026969-3dfc3445-6ddb-4df9-8687-aeb69c4e2e09.jpg">
 
@@ -30,12 +30,15 @@ Mutation is the ultimate sourse of genetic variation, and therefore the basis of
 
 In an atampt to look fill in some of these knowledge gaps, we looked at the mutational effects of locomotor performance across a temperature gradient in zebrafish.
 
+
 <img src="https://user-images.githubusercontent.com/127891763/236033411-23ac9f30-4662-461c-bde1-6ee8c95cee17.jpg" align="right" width="300px"/> 
 ##### Island Biology- Thermal adaptation in anole lizards
 
 
+
 <img src="https://user-images.githubusercontent.com/127891763/236036356-dcb344c5-4cbc-4ead-9cc0-dea34cf1500e.JPG" align="left" width="300px"/> 
 ##### Morphological and roosting variation across different levels of deforestation
+
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236034475-82deb8a5-8213-4016-a93a-3ce94c2546b9.jpg" align="right" width="300px"/> 
