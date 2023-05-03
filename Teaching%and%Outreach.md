@@ -10,6 +10,7 @@ feature_image: "dji_fly_20210731_145754_17_1661229890659_photo_optimized.jpg"
 
 #### Teaching
 
+
 2020- 2022  Biodiversity and the Environment, field and lab component component (1st year undergraduates), The University of Queensland, AU
 
 2019- 2022  The international Ecology and Evolution program (3rd year undergraduates), The University of Queensland, AU
@@ -24,6 +25,7 @@ feature_image: "dji_fly_20210731_145754_17_1661229890659_photo_optimized.jpg"
 
 
 #### Outreach
+
 
 ###### Wonder of Science 
 <img src="https://user-images.githubusercontent.com/127891763/236043862-ee894694-0dcb-411c-9c87-a44f43c8e3cc.png" align="right" width="300px"/> 
