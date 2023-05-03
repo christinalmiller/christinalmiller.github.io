@@ -1,6 +1,6 @@
 ---
 
-title: Research
+title: Teaching and Outreach
 feature_text: |
   ## *Christina L. Miller* 
   Evolutionary Biologist 
