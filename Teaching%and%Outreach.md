@@ -3,7 +3,7 @@
 title:
 feature_text: |
   ## *Teaching and Outreach* 
-feature_image: dji_fly_20210731_145754_17_1661229890659_photo_optimized.jpg
+feature_image: "dji_fly_20210731_145754_17_1661229890659_photo_optimized.jpg"
 
 ---
 
