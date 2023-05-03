@@ -3,7 +3,7 @@
 title:
 feature_text: |
   ## *Teaching and Outreach* 
-feature_image: <img src="https://user-images.githubusercontent.com/127891763/236026969-3dfc3445-6ddb-4df9-8687-aeb69c4e2e09.jpg">
+feature_image: dji_fly_20210731_145754_17_1661229890659_photo_optimized.jpg
 
 ---
 
