@@ -4,7 +4,7 @@ title:
 feature_text: |
   ## *Research* 
   Evolutionary Biologist 
-feature_image: <img src="https://user-images.githubusercontent.com/127891763/236026969-3dfc3445-6ddb-4df9-8687-aeb69c4e2e09.jpg">
+feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 
 ---
 
