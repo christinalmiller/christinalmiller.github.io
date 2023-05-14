@@ -10,10 +10,7 @@ feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research is in the field of quantitative genetics, with a main focus on genotype-by-environment interactions.
 
 
-<img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="right" width="300px"/> 
-
-![smaller capsella square white background](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497)
-
+<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497.jpg" align="right" width="300px"/> 
 
 ##### The plant evolution project 
 
@@ -33,11 +30,7 @@ Mutation is the ultimate sourse of genetic variation, and therefore the basis of
 In an atampt to look fill in some of these knowledge gaps, we looked at the mutational effects of locomotor performance across a temperature gradient in zebrafish.
 
 
-<img src="https://user-images.githubusercontent.com/127891763/236033411-23ac9f30-4662-461c-bde1-6ee8c95cee17.jpg" align="right" width="300px"/> 
-
-
-![Island 25_9](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94)
-
+<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94.jpg" align="right" width="300px"/> 
 
 ##### Island Biology
 
