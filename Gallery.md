@@ -2,14 +2,14 @@
 title:
 feature_text: |
   ## *Gallery*
-feature_image: {% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/121e38a2-059c-4f63-8ef2-6b1369127a28" %} 
+feature_image: ![Photo_6553800_DJI_200_jpg_5102220_0_2021103193446_photo_original](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/ee5e88eb-cb57-485c-833f-976c1047135a)
 ---
 
 ### Image includes
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/db97fed8-a9a8-4865-909c-8e63f41206fd" caption="Tapier- Peruvian Amazon" position="right" width="300" height="800" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/db97fed8-a9a8-4865-909c-8e63f41206fd" caption="Tapier- Peruvian Amazon" position="left" width="300" height="800" %}
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/db97fed8-a9a8-4865-909c-8e63f41206fd" caption="Tapier- Peruvian Amazon" position="right" width="300" height="800" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/63b765bc-e760-4463-a5b6-acf51036d1ac" caption="Field work in Miami" position="right" width="300" height="800" %}
 
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
