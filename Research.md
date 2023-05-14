@@ -10,7 +10,7 @@ feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research is in the field of quantitative genetics, with a main focus on genotype-by-environment interactions.
 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" caption="Capsella bursa-pastoris drawing" position="right" width="300" height="300" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" position="right" width="300" height="300" %}
 
 ##### The plant evolution project 
 
