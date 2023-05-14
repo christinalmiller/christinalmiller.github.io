@@ -3,7 +3,6 @@
 title:
 feature_text: |
   ## *Research* 
-  Evolutionary Biologist 
 feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 
 ---
