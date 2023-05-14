@@ -14,8 +14,7 @@ My research interests lie in evolutionary biology and primarily aim to understan
 <img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="right" width="300px"/> 
 ##### The plant evolution project 
 
-Urbanisation is happening on a rapid scale around the world, providing a new dynamic to many ecosystems. This process can often cause extremes in many abiotic factors.
-While many animals can shift their ranges to help buffer against some of these extremes, the survival of plants relies on species' ability to mitigate stress over a relatively short timescale. 
+Urbanisation is happening on a rapid scale around the world, providing a new dynamic to many ecosystems. This process can often cause extremes in many abiotic factors. While many animals can shift their ranges to help buffer against some of these extremes, the survival of plants relies on species' ability to mitigate stress over a relatively short timescale. 
 
 We are carying out common garden and transplant experiments to determine the contribution of adaptation and plasticity to the survival of plants in an urban landscape. We also aim to quantify the genetic variation of *Capsella bursa-pastoris* populations across cities, and identify the relatedness of these populations.
 
@@ -32,15 +31,26 @@ In an atampt to look fill in some of these knowledge gaps, we looked at the muta
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236033411-23ac9f30-4662-461c-bde1-6ee8c95cee17.jpg" align="right" width="300px"/> 
-##### Island Biology- Thermal adaptation in anole lizards
+##### Island Biology
 
+This project was in collaboration with Professor Jonathon Losos, Dr Mike Logan, and Dr Lauren Neel. We worked on a large-scale transplant study in Exuma, The Bahamas, to identify the genetic basis of thermal adaptation and the phenotypes associated with this.
+
+In 2017 we collected brown anoles (A. sagrei) from mainland Exuma and measured their morphology and physiology. We then transplanted 20 males and 20 females on 17 different experimental islands in Exuma. These islands differed thermally and structurally. In 2018, we recaptured these individuals and again measured their morphology and physiology. Lizards were released back to the islands they were caught from 3 days later. From this data we hope to identify variation in morphology and physiology. 
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236036356-dcb344c5-4cbc-4ead-9cc0-dea34cf1500e.JPG" align="left" width="300px"/> 
 ##### Morphological and roosting variation across different levels of deforestation
 
+Morphological, behavioral, and genetic variation of a species in different habitats is central to understanding how and if a species will survive the demands of habitat change. It is well known that the morphology and behavior of ectotherms can diverge due to ecological variation, but there is limited research on chameleons, and their habitat is under threat by deforestation in Madagascar. 
+
+I aimed to identify if Brookesia stumpffi, a dwarf chameleon from northern Madagascar, differed in their morphology and roosting behaviors in primary, 
+secondary, and degraded habitats. I conducted surveys at night and recorded the type of substrate and the height at which adult B. stumpffi were roosting. Measurements of the morphology of chameleon were then taken using analog calipers. I found that B. stumpffi roosted on higher perches in secondary and degraded habitats compared to primary forests. Furthermore, there was a significant divergence in chameleons morphology between the habitat types. I conclude that B. stumpffi have diverged between habitats and that deforestation may be responsible.
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236034475-82deb8a5-8213-4016-a93a-3ce94c2546b9.jpg" align="right" width="300px"/> 
 ##### Behavioural competition in two morphologically similar species of Anole lizard
+
+For this project I investigated the evolutionary consequences of interspecific competition in terms of behaviour and micro habitat of two lizards living in recent secondary contact (Anolis sagrei and A. cristatellus).
+
+In Miami there are areas where these two anole species live in both allopatric and recent sympatric environments. In 2015 I compared their behaviour and micro habitas across multiple field sites. Observing the initial phase of secondary contact between two ecomorphs naturally is rare. However, this phase is crucial in determining the consequences of interspecific competition. In sympatry, these consequences can either enable the species to survive in equilibrium or cause local extinction in the submissive species.
 
