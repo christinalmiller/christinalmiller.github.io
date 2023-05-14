@@ -38,6 +38,10 @@ In 2017 we collected brown anoles (A. sagrei) from mainland Exuma and measured t
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236036356-dcb344c5-4cbc-4ead-9cc0-dea34cf1500e.JPG" align="left" width="300px"/> 
+![IMG_0986 cropped and rotated](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/718b12b8-2926-473f-affe-83840e091064)
+
+
+
 ##### Morphological and roosting variation across different levels of deforestation
 
 Morphological, behavioral, and genetic variation of a species in different habitats is central to understanding how and if a species will survive the demands of habitat change. It is well known that the morphology and behavior of ectotherms can diverge due to ecological variation, but there is limited research on chameleons, and their habitat is under threat by deforestation in Madagascar. 
