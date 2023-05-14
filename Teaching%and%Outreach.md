@@ -42,7 +42,7 @@ For five weeks in the summer of 2017 I became a Science leader for the British 
 The sixth week was spent in the community teaching locals about conservation in a small village called Salvacion. We helped build bio-gardens for some of the locals and helped out on agroforestry plots. We also held a workshop in a school to show the community what the volunteers had learnt from coming to the jungle. This was a great success and the community really enjoyed learning about our work in the jungle.
 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/359dc703-972b-44a3-be8b-c341d01e82bd" position="left" width="300" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/359dc703-972b-44a3-be8b-c341d01e82bd" position="right" width="300" %}
 ##### Outreach in Madagascar
 
 During my role as a research officer in Madagascar I taught volunteers scientific methods and lead locals and volunteers on abundance and diversity surveys, helping them identify species. Part of my role was also to supervise volunteers on personal projects or on their undergraduate dissertation. Some volunteers came to complete a tropical conservation BTEC qualification (10 or 12 weeks), which I taught and graded.  
