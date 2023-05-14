@@ -30,6 +30,11 @@ In an atampt to look fill in some of these knowledge gaps, we looked at the muta
 
 
 <img src="https://user-images.githubusercontent.com/127891763/236033411-23ac9f30-4662-461c-bde1-6ee8c95cee17.jpg" align="right" width="300px"/> 
+
+
+![Island 25_9](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94)
+
+
 ##### Island Biology
 
 This project was in collaboration with Professor Jonathon Losos, Dr Mike Logan, and Dr Lauren Neel. We worked on a large-scale transplant study in Exuma, The Bahamas, to identify the genetic basis of thermal adaptation and the phenotypes associated with this.
@@ -46,7 +51,10 @@ I aimed to identify if Brookesia stumpffi, a dwarf chameleon from northern Madag
 secondary, and degraded habitats. I conducted surveys at night and recorded the type of substrate and the height at which adult B. stumpffi were roosting. Measurements of the morphology of chameleon were then taken using analog calipers. I found that B. stumpffi roosted on higher perches in secondary and degraded habitats compared to primary forests. Furthermore, there was a significant divergence in chameleons morphology between the habitat types. I conclude that B. stumpffi have diverged between habitats and that deforestation may be responsible.
 
 
-<img src="https://user-images.githubusercontent.com/127891763/236034475-82deb8a5-8213-4016-a93a-3ce94c2546b9.jpg" align="right" width="300px"/> 
+<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a.jpg" align="right" width="300px"/> 
+
+![DSC_0074 cropped](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a)
+
 ##### Behavioural competition in two morphologically similar species of Anole lizard
 
 For this project I investigated the evolutionary consequences of interspecific competition in terms of behaviour and micro habitat of two lizards living in recent secondary contact (Anolis sagrei and A. cristatellus).
