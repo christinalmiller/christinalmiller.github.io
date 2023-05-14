@@ -11,9 +11,6 @@ feature_image: "Photo_6553800_DJI_200_jpg_5102220_0_2021103193446_photo_original
 
 {% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/db97fed8-a9a8-4865-909c-8e63f41206fd" caption="Tapier- Peruvian Amazon" width="300" height="800" %}
 
-![DSCN1413](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/db97fed8-a9a8-4865-909c-8e63f41206fd)
-
-
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Right aligned image" position="right" width="300" height="800" %}
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" caption="Left aligned image" position="left" width="300" height="800" %}
