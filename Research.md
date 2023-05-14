@@ -11,6 +11,10 @@ My research interests lie in evolutionary biology and primarily aim to understan
 
 
 <img src="https://user-images.githubusercontent.com/127891763/234725830-af2119e3-3a92-4111-bbd0-3ec5f0bca101.jpg" align="right" width="300px"/> 
+
+![smaller capsella square white background](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497)
+
+
 ##### The plant evolution project 
 
 Urbanisation is happening on a rapid scale around the world, providing a new dynamic to many ecosystems. This process can often cause extremes in many abiotic factors. While many animals can shift their ranges to help buffer against some of these extremes, the survival of plants relies on species' ability to mitigate stress over a relatively short timescale. 
@@ -52,8 +56,6 @@ secondary, and degraded habitats. I conducted surveys at night and recorded the 
 
 
 <img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a.jpg" align="right" width="300px"/> 
-
-![DSC_0074 cropped](https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a)
 
 ##### Behavioural competition in two morphologically similar species of Anole lizard
 
