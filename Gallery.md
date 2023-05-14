@@ -2,10 +2,8 @@
 title:
 feature_text: |
   ## *Gallery*
-  Evolutionary Biologist
-feature_image: "Photo_6553800_DJI_200_jpg_5102220_0_2021103193446_photo_original.jpg" 
+feature_image: {% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/121e38a2-059c-4f63-8ef2-6b1369127a28" %} 
 ---
-
 
 ### Image includes
 
