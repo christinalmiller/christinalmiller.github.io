@@ -10,9 +10,7 @@ feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research is in the field of quantitative genetics, with a main focus on genotype-by-environment interactions.
 
 
-<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497.jpg" align="right" width="300px"/> 
-
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" caption="Capsella bursa-pastoris drawing" position="right" width="400" height="700" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" caption="Capsella bursa-pastoris drawing" position="right" width="400" height="400" %}
 
 ##### The plant evolution project 
 
@@ -34,6 +32,8 @@ In an atampt to look fill in some of these knowledge gaps, we looked at the muta
 
 <img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94.jpg" align="right" width="300px"/> 
 
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94" caption="Photo taken by Dr Mike Logan" position="right" width="400" height="400" %}
+
 ##### Island Biology
 
 This project was in collaboration with Professor Jonathon Losos, Dr Mike Logan, and Dr Lauren Neel. We worked on a large-scale transplant study in Exuma, The Bahamas, to identify the genetic basis of thermal adaptation and the phenotypes associated with this.
@@ -42,6 +42,8 @@ In 2017 we collected brown anoles (A. sagrei) from mainland Exuma and measured t
 
 
 <img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/371dff19-477a-4188-89ae-ed5d368d8031.JPG" align="left" width="300px"/> 
+
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/371dff19-477a-4188-89ae-ed5d368d8031" caption="Photo taken by Richard Bloomfield" position="left" width="400" height="400" %}
 
 ##### Morphological and roosting variation across different levels of deforestation
 
@@ -52,6 +54,8 @@ secondary, and degraded habitats. I conducted surveys at night and recorded the 
 
 
 <img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a.jpg" align="right" width="300px"/> 
+
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a" position="right" width="400" height="400" %}
 
 ##### Behavioural competition in two morphologically similar species of Anole lizard
 
