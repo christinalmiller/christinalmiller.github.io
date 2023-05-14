@@ -10,7 +10,7 @@ feature_image: "dji_fly_20220101_153138_12_1661229890887_photo_optimized.jpg"
 My research interests lie in evolutionary biology and primarily aim to understand how organisms cope with rapid environmental heterogeneity. I have studied behaviour, micro-habitat, performance, and morphology of animals in environments that differ in temperature, structure, and community. Below is a brief outline of my research. Currently my research is in the field of quantitative genetics, with a main focus on genotype-by-environment interactions.
 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" caption="Capsella bursa-pastoris drawing" position="right" width="400" height="400" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/4dcdec1e-2f47-4092-bfb7-c0c015d25497" caption="Capsella bursa-pastoris drawing" position="right" width="300" height="300" %}
 
 ##### The plant evolution project 
 
@@ -30,9 +30,9 @@ Mutation is the ultimate sourse of genetic variation, and therefore the basis of
 In an atampt to look fill in some of these knowledge gaps, we looked at the mutational effects of locomotor performance across a temperature gradient in zebrafish.
 
 
-<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94.jpg" align="right" width="300px"/> 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94" caption="Photo taken by Dr Mike Logan" position="right" width="400" height="400" %}
+
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/2eadaa3d-b2db-4347-9ae5-fdd806a5fd94" caption="Photo taken by Dr Mike Logan" position="right" width="300" height="300" %}
 
 ##### Island Biology
 
@@ -41,9 +41,8 @@ This project was in collaboration with Professor Jonathon Losos, Dr Mike Logan,
 In 2017 we collected brown anoles (A. sagrei) from mainland Exuma and measured their morphology and physiology. We then transplanted 20 males and 20 females on 17 different experimental islands in Exuma. These islands differed thermally and structurally. In 2018, we recaptured these individuals and again measured their morphology and physiology. Lizards were released back to the islands they were caught from 3 days later. From this data we hope to identify variation in morphology and physiology. 
 
 
-<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/371dff19-477a-4188-89ae-ed5d368d8031.JPG" align="left" width="300px"/> 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/371dff19-477a-4188-89ae-ed5d368d8031" caption="Photo taken by Richard Bloomfield" position="left" width="400" height="400" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/371dff19-477a-4188-89ae-ed5d368d8031" caption="Photo taken by Richard Bloomfield" position="left" width="300" height="300" %}
 
 ##### Morphological and roosting variation across different levels of deforestation
 
@@ -53,9 +52,8 @@ I aimed to identify if Brookesia stumpffi, a dwarf chameleon from northern Madag
 secondary, and degraded habitats. I conducted surveys at night and recorded the type of substrate and the height at which adult B. stumpffi were roosting. Measurements of the morphology of chameleon were then taken using analog calipers. I found that B. stumpffi roosted on higher perches in secondary and degraded habitats compared to primary forests. Furthermore, there was a significant divergence in chameleons morphology between the habitat types. I conclude that B. stumpffi have diverged between habitats and that deforestation may be responsible.
 
 
-<img src="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a.jpg" align="right" width="300px"/> 
 
-{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a" position="right" width="400" height="400" %}
+{% include figure.html image="https://github.com/christinalmiller/christinalmiller.github.io/assets/127891763/98fe1e81-0cf5-47f4-aa7c-3a7c3097454a" position="right" width="300" height="300" %}
 
 ##### Behavioural competition in two morphologically similar species of Anole lizard
 
